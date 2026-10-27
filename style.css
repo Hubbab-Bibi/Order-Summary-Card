@@ -1,0 +1,47 @@
+
+body { 
+    background-color:rgba(97, 159, 185, 0.37);
+}
+
+.main-pop-up {
+inline-size: 295px;
+background-color: white;
+text-align: center;
+margin-block:100px;
+margin-inline: auto;
+font-style: Arial;
+line-height: 20px;
+} 
+
+p {
+    font-size: 0.85rem;
+}
+.the-text {
+    padding: 20px;
+}
+
+img {
+    display: block;
+    max-inline-size: 100%;
+    border-radius:2.5px
+}
+button {
+    padding-block: 8px;
+    padding-inline: 50px;
+    border-radius: 10px;
+    background-color:rgb(53, 14, 192);
+    color: white;
+    margin: 10px;
+}
+.the-price-section {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    line-height: 8px;
+    background-color: rgba(128, 128, 128, 0.123);
+    border-radius: 10px;
+}
+.the-link{ 
+    display: block;
+    margin-block:20px;
+}
+
